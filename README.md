@@ -5,4 +5,5 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [友情链接](https://github.com/yxf12213090/blog/issues/2)--2022-02-15
 - [测试issue](https://github.com/yxf12213090/blog/issues/1)--2022-02-15

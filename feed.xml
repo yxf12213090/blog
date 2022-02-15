@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/yxf12213090/blog</id><title>RSS feed of yxf12213090's blog</title><updated>2022-02-15T11:18:37.037895+00:00</updated><author><name>yxf12213090</name><email>yxf12213090@126.com</email></author><link href="https://github.com/yxf12213090/blog"/><link href="https://raw.githubusercontent.com/yxf12213090/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/yxf12213090/blog/issues/1</id><title>测试issue</title><updated>2022-02-15T11:18:37.339217+00:00</updated><content type="html"><![CDATA[<h1>1.测试标题1</h1>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/yxf12213090/blog</id><title>RSS feed of yxf12213090's blog</title><updated>2022-02-15T11:30:49.884496+00:00</updated><author><name>yxf12213090</name><email>yxf12213090@126.com</email></author><link href="https://github.com/yxf12213090/blog"/><link href="https://raw.githubusercontent.com/yxf12213090/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/yxf12213090/blog/issues/2</id><title>友情链接</title><updated>2022-02-15T11:30:50.094536+00:00</updated><content type="html"><![CDATA[<h2>友情链接issue</h2>
+<p>格式如下（请参考我下面的 comment）:
+冒号为中文冒号 ：</p>
+<p>名字：xxxxxx
+链接：xxxxxx
+描述：xxxxxx</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> added all</li>
+</ul>
+<hr />
+<p>名字：兔子鮮笙
+链接：<a href="https://tuzi.moe">https://tuzi.moe</a>
+描述：20 岁的天才少年</p>
+<hr />
+<p>名字：daya0576
+链接：<a href="https://changchen.me/">https://changchen.me/</a>
+描述：喜欢 python 的大牙</p>
+<hr />
+<p>名字：kenlai
+链接：<a href="https://kenlai.me/">https://kenlai.me/</a>
+描述：网络前辈</p>
+<hr />
+<p>名字：Frost Ming
+链接：<a href="https://frostming.com/">https://frostming.com/</a>
+描述：醉后不知天在水，满船清梦压星河</p>
+]]></content><link href="https://github.com/yxf12213090/blog/issues/2" rel="alternate"/><published>2022-02-15T11:28:54+00:00</published></entry><entry><id>https://github.com/yxf12213090/blog/issues/1</id><title>测试issue</title><updated>2022-02-15T11:30:50.204037+00:00</updated><content type="html"><![CDATA[<h1>1.测试标题1</h1>
 <p>好久以来的想法终于要实现了，
 这是个测试文章，
 如果成功了
