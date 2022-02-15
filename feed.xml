@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/yxf12213090/blog</id><title>RSS feed of yxf12213090's blog</title><updated>2022-02-15T11:30:49.884496+00:00</updated><author><name>yxf12213090</name><email>yxf12213090@126.com</email></author><link href="https://github.com/yxf12213090/blog"/><link href="https://raw.githubusercontent.com/yxf12213090/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/yxf12213090/blog/issues/2</id><title>友情链接</title><updated>2022-02-15T11:30:50.094536+00:00</updated><content type="html"><![CDATA[<h2>友情链接issue</h2>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/yxf12213090/blog</id><title>RSS feed of yxf12213090's blog</title><updated>2022-02-15T11:44:23.313367+00:00</updated><author><name>yxf12213090</name><email>yxf12213090@126.com</email></author><link href="https://github.com/yxf12213090/blog"/><link href="https://raw.githubusercontent.com/yxf12213090/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/yxf12213090/blog/issues/3</id><title>2022</title><updated>2022-02-15T11:44:23.612345+00:00</updated><content type="html"><![CDATA[<p>2022 first</p>
+]]></content><link href="https://github.com/yxf12213090/blog/issues/3" rel="alternate"/><category term="2022"/><published>2022-02-15T11:42:02+00:00</published></entry><entry><id>https://github.com/yxf12213090/blog/issues/2</id><title>友情链接</title><updated>2022-02-15T11:44:23.774576+00:00</updated><content type="html"><![CDATA[<h2>友情链接issue</h2>
 <p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
@@ -24,7 +25,7 @@
 <p>名字：Frost Ming
 链接：<a href="https://frostming.com/">https://frostming.com/</a>
 描述：醉后不知天在水，满船清梦压星河</p>
-]]></content><link href="https://github.com/yxf12213090/blog/issues/2" rel="alternate"/><published>2022-02-15T11:28:54+00:00</published></entry><entry><id>https://github.com/yxf12213090/blog/issues/1</id><title>测试issue</title><updated>2022-02-15T11:30:50.204037+00:00</updated><content type="html"><![CDATA[<h1>1.测试标题1</h1>
+]]></content><link href="https://github.com/yxf12213090/blog/issues/2" rel="alternate"/><category term="Top"/><published>2022-02-15T11:28:54+00:00</published></entry><entry><id>https://github.com/yxf12213090/blog/issues/1</id><title>测试issue</title><updated>2022-02-15T11:44:23.914426+00:00</updated><content type="html"><![CDATA[<h1>1.测试标题1</h1>
 <p>好久以来的想法终于要实现了，
 这是个测试文章，
 如果成功了
